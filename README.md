@@ -1,2 +1,2 @@
-# FRANK1448.githup.io
+# FRANK1448.github.io
 My personal Website
